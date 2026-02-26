@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"lin/internal/tools"
+	"github.com/linchen1987/lingo/internal/tools"
 
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"

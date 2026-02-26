@@ -3,7 +3,7 @@ package cmd
 import (
 	"fmt"
 
-	"lin/internal/tools"
+	"github.com/linchen1987/lingo/internal/tools"
 
 	"github.com/spf13/cobra"
 )

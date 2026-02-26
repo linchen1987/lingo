@@ -19,7 +19,7 @@ go.work.sum
 vendor/
 
 # Build output
-lin
+lingo
 /bin/
 /dist/
 

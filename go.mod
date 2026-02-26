@@ -1,4 +1,4 @@
-module lin
+module github.com/linchen1987/lingo
 
 go 1.25.0
 
